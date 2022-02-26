@@ -38,18 +38,6 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `username`, `password`, `name`) VALUES
-(13, 'ok', '444bcb3a3fcf8389296c49467f27e1d6', 'ok'),
-(14, 'ok', '444bcb3a3fcf8389296c49467f27e1d6', 'ok'),
-(15, 'kk', 'dc468c70fb574ebd07287b38d0d0676d', 'kk'),
-(16, 'kk', 'dc468c70fb574ebd07287b38d0d0676d', 'kk'),
-(17, 'jo', '674f33841e2309ffdd24c85dc3b999de', 'jo'),
-(18, 'jo', '674f33841e2309ffdd24c85dc3b999de', 'jo'),
-(19, 'lo', '7ce8636c076f5f42316676f7ca5ccfbe', 'lo'),
-(20, 'lo', '7ce8636c076f5f42316676f7ca5ccfbe', 'lo'),
-(21, 'name', 'b068931cc450442b63f5b3d276ea4297', 'name'),
-(22, 'name', 'b068931cc450442b63f5b3d276ea4297', 'name');
-
 --
 -- Indexes for dumped tables
 --
